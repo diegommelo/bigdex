@@ -1,0 +1,1808 @@
+{
+  "participantes": [
+    [
+      {
+        "bio": "Kléber Bambam foi o campeão da primeira edição do BBB.",
+        "edicao": 1,
+        "foto": 1,
+        "nome": "Kléber Bambam",
+        "tipo": 5
+      },
+      {
+        "edicao": 1,
+        "foto": 2,
+        "nome": "Vanessa Pascale"
+      },
+      {
+        "edicao": 1,
+        "foto": 3,
+        "nome": "André Carvalho"
+      },
+      {
+        "edicao": 1,
+        "foto": 4,
+        "nome": "Sérgio Tavares"
+      },
+      {
+        "edicao": 1,
+        "foto": 5,
+        "nome": "Alessandra Begliomini"
+      },
+      {
+        "edicao": 1,
+        "foto": 6,
+        "nome": "Estela Padilha"
+      },
+      {
+        "edicao": 1,
+        "foto": 7,
+        "nome": "Adriano de Castro"
+      },
+      {
+        "edicao": 1,
+        "foto": 8,
+        "nome": "Helena Louro"
+      },
+      {
+        "edicao": 1,
+        "foto": 9,
+        "nome": "Cristiana Mota"
+      },
+      {
+        "edicao": 1,
+        "foto": 10,
+        "nome": "Bruno Saladini"
+      },
+      {
+        "edicao": 1,
+        "foto": 11,
+        "nome": "Xaiane Dantas"
+      },
+      {
+        "edicao": 1,
+        "foto": 12,
+        "nome": "Caetano Zonaro"
+      }
+    ],
+    [
+      {
+        "edicao": 2,
+        "foto": 13,
+        "nome": "Rodrigo Leonel"
+      },
+      {
+        "edicao": 2,
+        "foto": 14,
+        "nome": "Manuela Saadeh"
+      },
+      {
+        "edicao": 2,
+        "foto": 15,
+        "nome": "Cida Junqueira"
+      },
+      {
+        "edicao": 2,
+        "foto": 16,
+        "nome": "Thyrso Matos"
+      },
+      {
+        "edicao": 2,
+        "foto": 17,
+        "nome": "Tarciana Lima"
+      },
+      {
+        "edicao": 2,
+        "foto": 18,
+        "nome": "Fabricio Amaral"
+      },
+      {
+        "edicao": 2,
+        "foto": 19,
+        "nome": "Thaís Ventura"
+      },
+      {
+        "edicao": 2,
+        "foto": 20,
+        "nome": "Moisés Cruz"
+      },
+      {
+        "edicao": 2,
+        "foto": 21,
+        "nome": "Jeferson dos Santos"
+      },
+      {
+        "edicao": 2,
+        "foto": 22,
+        "nome": "Fernando Fernandes"
+      },
+      {
+        "edicao": 2,
+        "foto": 23,
+        "nome": "Tina Soares"
+      },
+      {
+        "edicao": 2,
+        "foto": 24,
+        "nome": "Rita Gonçalves"
+      }
+    ],
+    [
+      {
+        "edicao": 3,
+        "foto": 25,
+        "nome": "Dhomini"
+      },
+      {
+        "edicao": 3,
+        "foto": 26,
+        "nome": "Elane Silva"
+      },
+      {
+        "edicao": 3,
+        "foto": 27,
+        "nome": "Viviane Oliveira"
+      },
+      {
+        "edicao": 3,
+        "foto": 28,
+        "nome": "Jean Massumi"
+      },
+      {
+        "edicao": 3,
+        "foto": 29,
+        "nome": "Harry Grossman"
+      },
+      {
+        "edicao": 3,
+        "foto": 30,
+        "nome": "Sabrina Sato"
+      },
+      {
+        "edicao": 3,
+        "foto": 31,
+        "nome": "Emílio Rodrigues"
+      },
+      {
+        "edicao": 3,
+        "foto": 32,
+        "nome": "Alan Conceição"
+      },
+      {
+        "edicao": 3,
+        "foto": 33,
+        "nome": "Juliana Alves"
+      },
+      {
+        "edicao": 3,
+        "foto": 34,
+        "nome": "Andrea Guerrero"
+      },
+      {
+        "edicao": 3,
+        "foto": 35,
+        "nome": "Marcelo Kretzer"
+      },
+      {
+        "edicao": 3,
+        "foto": 36,
+        "nome": "Joseane Oliveira"
+      },
+      {
+        "edicao": 3,
+        "foto": 37,
+        "nome": "Dilson Walkarez"
+      },
+      {
+        "edicao": 3,
+        "foto": 38,
+        "nome": "Paulo Carotini"
+      },
+      {
+        "edicao": 3,
+        "foto": 39,
+        "nome": "Samantha Pereira"
+      }
+    ],
+    [
+      {
+        "edicao": 4,
+        "foto": 40,
+        "nome": "Cida dos Santos"
+      },
+      {
+        "edicao": 4,
+        "foto": 41,
+        "nome": "Thiago Lira"
+      },
+      {
+        "edicao": 4,
+        "foto": 42,
+        "nome": "Juliana Lopes"
+      },
+      {
+        "edicao": 4,
+        "foto": 43,
+        "nome": "Solange Couto"
+      },
+      {
+        "edicao": 4,
+        "foto": 44,
+        "nome": "Marcela Queiroz"
+      },
+      {
+        "edicao": 4,
+        "foto": 45,
+        "nome": "Rogério Dragone"
+      },
+      {
+        "edicao": 4,
+        "foto": 46,
+        "nome": "Marcelo Dourado"
+      },
+      {
+        "edicao": 4,
+        "foto": 47,
+        "nome": "Zulu Gomes"
+      },
+      {
+        "edicao": 4,
+        "foto": 48,
+        "nome": "Edilson Buba"
+      },
+      {
+        "edicao": 4,
+        "foto": 49,
+        "nome": "Géris de Souza"
+      },
+      {
+        "edicao": 4,
+        "foto": 50,
+        "nome": "Antonela Avellaneda"
+      },
+      {
+        "edicao": 4,
+        "foto": 51,
+        "nome": "Cristiano Carnevale"
+      },
+      {
+        "edicao": 4,
+        "foto": 52,
+        "nome": "Eduardo Monteiro"
+      },
+      {
+        "edicao": 4,
+        "foto": 53,
+        "nome": "Tatiana Giordano"
+      }
+    ],
+    [
+      {
+        "edicao": 5,
+        "foto": 54,
+        "nome": "Jean Wyllys"
+      },
+      {
+        "edicao": 5,
+        "foto": 55,
+        "nome": "Grazielli Massafera"
+      },
+      {
+        "edicao": 5,
+        "foto": 56,
+        "nome": "Sammy Ueda"
+      },
+      {
+        "edicao": 5,
+        "foto": 57,
+        "nome": "Alan Passos"
+      },
+      {
+        "edicao": 5,
+        "foto": 58,
+        "nome": "Tatiane Pink"
+      },
+      {
+        "edicao": 5,
+        "foto": 59,
+        "nome": "Karla Barbosa"
+      },
+      {
+        "edicao": 5,
+        "foto": 60,
+        "nome": "Aline dos Santos"
+      },
+      {
+        "edicao": 5,
+        "foto": 61,
+        "nome": "Tatiana Machado"
+      },
+      {
+        "edicao": 5,
+        "foto": 62,
+        "nome": "Natália Nara"
+      },
+      {
+        "edicao": 5,
+        "foto": 63,
+        "nome": "Paulo André Costa"
+      },
+      {
+        "edicao": 5,
+        "foto": 64,
+        "nome": "Rogério Padovan"
+      },
+      {
+        "edicao": 5,
+        "foto": 65,
+        "nome": "Giullianno Ciarelli"
+      },
+      {
+        "edicao": 5,
+        "foto": 66,
+        "nome": "Marcos Maçaneiro"
+      },
+      {
+        "edicao": 5,
+        "foto": 67,
+        "nome": "Marielza Santos"
+      },
+      {
+        "edicao": 5,
+        "foto": 68,
+        "nome": "Juliana Brandão"
+      }
+    ],
+    [
+      {
+        "edicao": 6,
+        "foto": 69,
+        "nome": "Mara Viana"
+      },
+      {
+        "edicao": 6,
+        "foto": 70,
+        "nome": "Mariana Felício"
+      },
+      {
+        "edicao": 6,
+        "foto": 71,
+        "nome": "Rafael Valente"
+      },
+      {
+        "edicao": 6,
+        "foto": 72,
+        "nome": "Agustinho Mendonça"
+      },
+      {
+        "edicao": 6,
+        "foto": 73,
+        "nome": "Gustavo Borges"
+      },
+      {
+        "edicao": 6,
+        "foto": 74,
+        "nome": "Iran Alves"
+      },
+      {
+        "edicao": 6,
+        "foto": 75,
+        "nome": "Carlos Castello"
+      },
+      {
+        "edicao": 6,
+        "foto": 76,
+        "nome": "Inês Gomes"
+      },
+      {
+        "edicao": 6,
+        "foto": 77,
+        "nome": "Thaís Macedo"
+      },
+      {
+        "edicao": 6,
+        "foto": 78,
+        "nome": "Léa Ferreira"
+      },
+      {
+        "edicao": 6,
+        "foto": 79,
+        "nome": "Roberta Brasil"
+      },
+      {
+        "edicao": 6,
+        "foto": 80,
+        "nome": "Daniel Saullo"
+      },
+      {
+        "edicao": 6,
+        "foto": 81,
+        "nome": "Dan Costa"
+      },
+      {
+        "edicao": 6,
+        "foto": 82,
+        "nome": "Juliana Canabarro"
+      }
+    ],
+    [
+      {
+        "edicao": 7,
+        "foto": 83,
+        "nome": "Diego Gasques"
+      },
+      {
+        "edicao": 7,
+        "foto": 84,
+        "nome": "Carollini Honório"
+      },
+      {
+        "edicao": 7,
+        "foto": 85,
+        "nome": "Bruna Tavares"
+      },
+      {
+        "edicao": 7,
+        "foto": 86,
+        "nome": "Analy Rosa"
+      },
+      {
+        "edicao": 7,
+        "foto": 87,
+        "nome": "Airton Cabral"
+      },
+      {
+        "edicao": 7,
+        "foto": 88,
+        "nome": "Alberto Pimentel"
+      },
+      {
+        "edicao": 7,
+        "foto": 89,
+        "nome": "Fani Pacheco"
+      },
+      {
+        "edicao": 7,
+        "foto": 90,
+        "nome": "Flavia Viana"
+      },
+      {
+        "edicao": 7,
+        "foto": 91,
+        "nome": "Íris Stefanelli"
+      },
+      {
+        "edicao": 7,
+        "foto": 92,
+        "nome": "Bruno Jácome"
+      },
+      {
+        "edicao": 7,
+        "foto": 93,
+        "nome": "Fernando Luiz Bacalow"
+      },
+      {
+        "edicao": 7,
+        "foto": 94,
+        "nome": "Felipe Cobra"
+      },
+      {
+        "edicao": 7,
+        "foto": 95,
+        "nome": "Alan Pierre Miranda"
+      },
+      {
+        "edicao": 7,
+        "foto": 96,
+        "nome": "Liane de Souza"
+      },
+      {
+        "edicao": 7,
+        "foto": 97,
+        "nome": "Daniel Belangero"
+      },
+      {
+        "edicao": 7,
+        "foto": 98,
+        "nome": "Juliana Regueiro"
+      }
+    ],
+    [
+      {
+        "edicao": 8,
+        "foto": 99,
+        "nome": "Rafinha Ribeiro"
+      },
+      {
+        "edicao": 8,
+        "foto": 100,
+        "nome": "Gyselle Soares"
+      },
+      {
+        "edicao": 8,
+        "foto": 101,
+        "nome": "Natália Casassola"
+      },
+      {
+        "edicao": 8,
+        "foto": 102,
+        "nome": "Marcos Silva"
+      },
+      {
+        "edicao": 8,
+        "foto": 103,
+        "nome": "Thatiana Bione"
+      },
+      {
+        "edicao": 8,
+        "foto": 104,
+        "nome": "Marcelo Arantes"
+      },
+      {
+        "edicao": 8,
+        "foto": 105,
+        "nome": "Juliana Góes"
+      },
+      {
+        "edicao": 8,
+        "foto": 106,
+        "nome": "Felipe Basílio"
+      },
+      {
+        "edicao": 8,
+        "foto": 107,
+        "nome": "Fernando Mesquita"
+      },
+      {
+        "edicao": 8,
+        "foto": 108,
+        "nome": "Bianca Jahara"
+      },
+      {
+        "edicao": 8,
+        "foto": 109,
+        "nome": "Thalita Lippi"
+      },
+      {
+        "edicao": 8,
+        "foto": 110,
+        "nome": "Alexandre Scaquette"
+      },
+      {
+        "edicao": 8,
+        "foto": 111,
+        "nome": "Rafael Memória"
+      },
+      {
+        "edicao": 8,
+        "foto": 112,
+        "nome": "Jaqueline Khury"
+      }
+    ],
+    [
+      {
+        "edicao": 9,
+        "foto": 113,
+        "nome": "Maximiliano Porto"
+      },
+      {
+        "edicao": 9,
+        "foto": 114,
+        "nome": "Priscila Pires"
+      },
+      {
+        "edicao": 9,
+        "foto": 115,
+        "nome": "Francine Piaia"
+      },
+      {
+        "edicao": 9,
+        "foto": 116,
+        "nome": "Ana Carolina Madeira"
+      },
+      {
+        "edicao": 9,
+        "foto": 117,
+        "nome": "Flávio Steffli"
+      },
+      {
+        "edicao": 9,
+        "foto": 118,
+        "nome": "Josiane de Oliveira"
+      },
+      {
+        "edicao": 9,
+        "foto": 119,
+        "nome": "Milena Fagundes"
+      },
+      {
+        "edicao": 9,
+        "foto": 120,
+        "nome": "Naiá Giannocaro"
+      },
+      {
+        "edicao": 9,
+        "foto": 121,
+        "nome": "Maíra Cardi"
+      },
+      {
+        "edicao": 9,
+        "foto": 122,
+        "nome": "Ralf Krause"
+      },
+      {
+        "edicao": 9,
+        "foto": 123,
+        "nome": "Mirla Prado"
+      },
+      {
+        "edicao": 9,
+        "foto": 124,
+        "nome": "André de Almeida"
+      },
+      {
+        "edicao": 9,
+        "foto": 125,
+        "nome": "Emanuel Milchevski"
+      },
+      {
+        "edicao": 9,
+        "foto": 126,
+        "nome": "Newton Siqueira"
+      },
+      {
+        "edicao": 9,
+        "foto": 127,
+        "nome": "Alexandre Gomes"
+      },
+      {
+        "edicao": 9,
+        "foto": 128,
+        "nome": "Leonardo Jancu"
+      },
+      {
+        "edicao": 9,
+        "foto": 129,
+        "nome": "Norberto Carias"
+      },
+      {
+        "edicao": 9,
+        "foto": 130,
+        "nome": "Michelle da Costa"
+      },
+      {
+        "edicao": 9,
+        "foto": 131,
+        "nome": "Maíra Britto"
+      },
+      {
+        "edicao": 9,
+        "foto": 132,
+        "nome": "Daniel Gevaerd"
+      }
+    ],
+    [
+      {
+        "edicao": 10,
+        "foto": 133,
+        "nome": "Marcelo Dourado"
+      },
+      {
+        "edicao": 10,
+        "foto": 134,
+        "nome": "Fernanda Cardoso"
+      },
+      {
+        "edicao": 10,
+        "foto": 135,
+        "nome": "Cadu Parga"
+      },
+      {
+        "edicao": 10,
+        "foto": 136,
+        "nome": "Lia Kheireddine"
+      },
+      {
+        "edicao": 10,
+        "foto": 137,
+        "nome": "Dicesar Ferreira"
+      },
+      {
+        "edicao": 10,
+        "foto": 138,
+        "nome": "Anamara Brito"
+      },
+      {
+        "edicao": 10,
+        "foto": 139,
+        "nome": "Sérgio Franceschini"
+      },
+      {
+        "edicao": 10,
+        "foto": 140,
+        "nome": "Michel Turtchin"
+      },
+      {
+        "edicao": 10,
+        "foto": 141,
+        "nome": "Eliéser Ambrósio"
+      },
+      {
+        "edicao": 10,
+        "foto": 142,
+        "nome": "Cláudia Colucci"
+      },
+      {
+        "edicao": 10,
+        "foto": 143,
+        "nome": "Angélica Martins"
+      },
+      {
+        "edicao": 10,
+        "foto": 144,
+        "nome": "Elenita Rodrigues"
+      },
+      {
+        "edicao": 10,
+        "foto": 145,
+        "nome": "Uilliam Cardoso"
+      },
+      {
+        "edicao": 10,
+        "foto": 146,
+        "nome": "Alex Vilanova"
+      },
+      {
+        "edicao": 10,
+        "foto": 147,
+        "nome": "Tessália Serighelli"
+      },
+      {
+        "edicao": 10,
+        "foto": 148,
+        "nome": "Ana Marcela Alves"
+      },
+      {
+        "edicao": 10,
+        "foto": 149,
+        "nome": "Joseane Oliveira"
+      }
+    ],
+    [
+      {
+        "edicao": 11,
+        "foto": 150,
+        "nome": "Maria Melillo"
+      },
+      {
+        "edicao": 11,
+        "foto": 151,
+        "nome": "Wesley Schunk"
+      },
+      {
+        "edicao": 11,
+        "foto": 152,
+        "nome": "Daniel Rolim"
+      },
+      {
+        "edicao": 11,
+        "foto": 153,
+        "nome": "Diana Balsini"
+      },
+      {
+        "edicao": 11,
+        "foto": 154,
+        "nome": "Rodrigão Gomes"
+      },
+      {
+        "edicao": 11,
+        "foto": 155,
+        "nome": "Paula Leite"
+      },
+      {
+        "edicao": 11,
+        "foto": 156,
+        "nome": "Jaqueline Faria"
+      },
+      {
+        "edicao": 11,
+        "foto": 157,
+        "nome": "Maurício Joaquim"
+      },
+      {
+        "edicao": 11,
+        "foto": 158,
+        "nome": "Talula Pascoli"
+      },
+      {
+        "edicao": 11,
+        "foto": 159,
+        "nome": "Janaína dos Santos"
+      },
+      {
+        "edicao": 11,
+        "foto": 160,
+        "nome": "Diogo Preto"
+      },
+      {
+        "edicao": 11,
+        "foto": 161,
+        "nome": "Adriana Sant'anna"
+      },
+      {
+        "edicao": 11,
+        "foto": 162,
+        "nome": "Natália Castro"
+      },
+      {
+        "edicao": 11,
+        "foto": 163,
+        "nome": "Lucival França"
+      },
+      {
+        "edicao": 11,
+        "foto": 164,
+        "nome": "Cristiano Naya"
+      },
+      {
+        "edicao": 11,
+        "foto": 165,
+        "nome": "Igor Serra"
+      },
+      {
+        "edicao": 11,
+        "foto": 166,
+        "nome": "Michelly Freitas"
+      },
+      {
+        "edicao": 11,
+        "foto": 167,
+        "nome": "Rodrigo Carvalho"
+      },
+      {
+        "edicao": 11,
+        "foto": 168,
+        "nome": "Ariadna Arantes"
+      }
+    ],
+    [
+      {
+        "edicao": 12,
+        "foto": 169,
+        "nome": "Fael Cordeiro"
+      },
+      {
+        "edicao": 12,
+        "foto": 170,
+        "nome": "Fabiana Teixeira"
+      },
+      {
+        "edicao": 12,
+        "foto": 171,
+        "nome": "Jonas Sulzbach"
+      },
+      {
+        "edicao": 12,
+        "foto": 172,
+        "nome": "Kelly Medeiros"
+      },
+      {
+        "edicao": 12,
+        "foto": 173,
+        "nome": "João Carvalho"
+      },
+      {
+        "edicao": 12,
+        "foto": 174,
+        "nome": "Monique Amin"
+      },
+      {
+        "edicao": 12,
+        "foto": 175,
+        "nome": "Yuri Fernandes"
+      },
+      {
+        "edicao": 12,
+        "foto": 176,
+        "nome": "Renata Dávila"
+      },
+      {
+        "edicao": 12,
+        "foto": 177,
+        "nome": "Rafa Oliveira"
+      },
+      {
+        "edicao": 12,
+        "foto": 178,
+        "nome": "Laisa Portela"
+      },
+      {
+        "edicao": 12,
+        "foto": 179,
+        "nome": "João Mauricio Dantas"
+      },
+      {
+        "edicao": 12,
+        "foto": 180,
+        "nome": "Ronaldo Peres"
+      },
+      {
+        "edicao": 12,
+        "foto": 181,
+        "nome": "Mayara Medeiros"
+      },
+      {
+        "edicao": 12,
+        "foto": 182,
+        "nome": "Jakeline Leal"
+      },
+      {
+        "edicao": 12,
+        "foto": 183,
+        "nome": "Analice de Souza"
+      },
+      {
+        "edicao": 12,
+        "foto": 184,
+        "nome": "Daniel Echaniz"
+      }
+    ],
+    [
+      {
+        "edicao": 13,
+        "foto": 185,
+        "nome": "Fernanda Keulla"
+      },
+      {
+        "edicao": 13,
+        "foto": 186,
+        "nome": "Nasser Rodrigues"
+      },
+      {
+        "edicao": 13,
+        "foto": 187,
+        "nome": "Andressa Ganacin"
+      },
+      {
+        "edicao": 13,
+        "foto": 188,
+        "nome": "Natália Casassola"
+      },
+      {
+        "edicao": 13,
+        "foto": 189,
+        "nome": "André Martinelli"
+      },
+      {
+        "edicao": 13,
+        "foto": 190,
+        "nome": "Fani Pacheco"
+      },
+      {
+        "edicao": 13,
+        "foto": 191,
+        "nome": "Kamilla Salgado"
+      },
+      {
+        "edicao": 13,
+        "foto": 192,
+        "nome": "Anamara Brito"
+      },
+      {
+        "edicao": 13,
+        "foto": 193,
+        "nome": "Marcello Soares"
+      },
+      {
+        "edicao": 13,
+        "foto": 194,
+        "nome": "Eliéser Ambrósio"
+      },
+      {
+        "edicao": 13,
+        "foto": 195,
+        "nome": "Ivan Marcondes"
+      },
+      {
+        "edicao": 13,
+        "foto": 196,
+        "nome": "Marien Carretero"
+      },
+      {
+        "edicao": 13,
+        "foto": 197,
+        "nome": "Yuri Fernandes"
+      },
+      {
+        "edicao": 13,
+        "foto": 198,
+        "nome": "Aslan Cabral"
+      },
+      {
+        "edicao": 13,
+        "foto": 199,
+        "nome": "Dhomini Ferreira"
+      },
+      {
+        "edicao": 13,
+        "foto": 200,
+        "nome": "Aline Mattos"
+      },
+      {
+        "edicao": 13,
+        "foto": 201,
+        "nome": "Kleber Bambam"
+      },
+      {
+        "edicao": 13,
+        "foto": 202,
+        "nome": "André Coelho"
+      },
+      {
+        "edicao": 13,
+        "foto": 203,
+        "nome": "Bernardo Lima"
+      },
+      {
+        "edicao": 13,
+        "foto": 204,
+        "nome": "Kelly Baron"
+      },
+      {
+        "edicao": 13,
+        "foto": 205,
+        "nome": "Samara Fonseca"
+      }
+    ],
+    [
+      {
+        "edicao": 14,
+        "foto": 206,
+        "nome": "Vanessa Mesquita"
+      },
+      {
+        "edicao": 14,
+        "foto": 207,
+        "nome": "Angela Munhoz"
+      },
+      {
+        "edicao": 14,
+        "foto": 208,
+        "nome": "Clara Aguilar"
+      },
+      {
+        "edicao": 14,
+        "foto": 209,
+        "nome": "Marcelo Zagonel"
+      },
+      {
+        "edicao": 14,
+        "foto": 210,
+        "nome": "Valter Araújo"
+      },
+      {
+        "edicao": 14,
+        "foto": 211,
+        "nome": "Tatiele Polyana"
+      },
+      {
+        "edicao": 14,
+        "foto": 212,
+        "nome": "Cássio Lannes"
+      },
+      {
+        "edicao": 14,
+        "foto": 213,
+        "nome": "Diego Grossi"
+      },
+      {
+        "edicao": 14,
+        "foto": 214,
+        "nome": "Aline Dahlen"
+      },
+      {
+        "edicao": 14,
+        "foto": 215,
+        "nome": "Franciele Almeida"
+      },
+      {
+        "edicao": 14,
+        "foto": 216,
+        "nome": "Roni Mazon"
+      },
+      {
+        "edicao": 14,
+        "foto": 217,
+        "nome": "Letícia Santiago"
+      },
+      {
+        "edicao": 14,
+        "foto": 218,
+        "nome": "Junior Gianetti"
+      },
+      {
+        "edicao": 14,
+        "foto": 219,
+        "nome": "Amanda Gontijo"
+      },
+      {
+        "edicao": 14,
+        "foto": 220,
+        "nome": "Vagner Lara"
+      },
+      {
+        "edicao": 14,
+        "foto": 221,
+        "nome": "Bella Maia"
+      },
+      {
+        "edicao": 14,
+        "foto": 222,
+        "nome": "Princy Cavalcante"
+      },
+      {
+        "edicao": 14,
+        "foto": 223,
+        "nome": "Rodrigo Lima"
+      },
+      {
+        "edicao": 14,
+        "foto": 224,
+        "nome": "Alisson Gomes"
+      },
+      {
+        "edicao": 14,
+        "foto": 225,
+        "nome": "João Almeida"
+      }
+    ],
+    [
+      {
+        "edicao": 15,
+        "foto": 226,
+        "nome": "Cézar Lima"
+      },
+      {
+        "edicao": 15,
+        "foto": 227,
+        "nome": "Amanda Djehdian"
+      },
+      {
+        "edicao": 15,
+        "foto": 228,
+        "nome": "Fernando Medeiros"
+      },
+      {
+        "edicao": 15,
+        "foto": 229,
+        "nome": "Adrilles Reis"
+      },
+      {
+        "edicao": 15,
+        "foto": 230,
+        "nome": "Mariza Moreira"
+      },
+      {
+        "edicao": 15,
+        "foto": 231,
+        "nome": "Rafael Licks"
+      },
+      {
+        "edicao": 15,
+        "foto": 232,
+        "nome": "Luan Rosa"
+      },
+      {
+        "edicao": 15,
+        "foto": 233,
+        "nome": "Tamires Peixoto"
+      },
+      {
+        "edicao": 15,
+        "foto": 234,
+        "nome": "Talita Carvalho"
+      },
+      {
+        "edicao": 15,
+        "foto": 235,
+        "nome": "Angélica Ramos"
+      },
+      {
+        "edicao": 15,
+        "foto": 236,
+        "nome": "Aline Gotschalg"
+      },
+      {
+        "edicao": 15,
+        "foto": 237,
+        "nome": "Marco Marcon"
+      },
+      {
+        "edicao": 15,
+        "foto": 238,
+        "nome": "Douglas Ferreira"
+      },
+      {
+        "edicao": 15,
+        "foto": 239,
+        "nome": "Francieli Medeiros"
+      },
+      {
+        "edicao": 15,
+        "foto": 240,
+        "nome": "Julia Barboza"
+      },
+      {
+        "edicao": 15,
+        "foto": 241,
+        "nome": "Rogério Alves"
+      }
+    ],
+    [
+      {
+        "edicao": 16,
+        "foto": 242,
+        "nome": "Munik Nunes"
+      },
+      {
+        "edicao": 16,
+        "foto": 243,
+        "nome": "Maria Claudia"
+      },
+      {
+        "edicao": 16,
+        "foto": 244,
+        "nome": "Ronan Oliveira"
+      },
+      {
+        "edicao": 16,
+        "foto": 245,
+        "nome": "Geralda Diniz"
+      },
+      {
+        "edicao": 16,
+        "foto": 246,
+        "nome": "Matheus Lisboa"
+      },
+      {
+        "edicao": 16,
+        "foto": 247,
+        "nome": "Renan Oliveira"
+      },
+      {
+        "edicao": 16,
+        "foto": 248,
+        "nome": "Adélia Soares"
+      },
+      {
+        "edicao": 16,
+        "foto": 249,
+        "nome": "Ana Paula Renault"
+      },
+      {
+        "edicao": 16,
+        "foto": 250,
+        "nome": "Tamiel Baiocchi"
+      },
+      {
+        "edicao": 16,
+        "foto": 251,
+        "nome": "Juliana Dias"
+      },
+      {
+        "edicao": 16,
+        "foto": 252,
+        "nome": "Daniel Manzieri"
+      },
+      {
+        "edicao": 16,
+        "foto": 253,
+        "nome": "Alan Marinho"
+      },
+      {
+        "edicao": 16,
+        "foto": 254,
+        "nome": "Laércio de Moura"
+      },
+      {
+        "edicao": 16,
+        "foto": 255,
+        "nome": "Harumy Ishihara"
+      },
+      {
+        "edicao": 16,
+        "foto": 256,
+        "nome": "William de Oliveira"
+      },
+      {
+        "edicao": 16,
+        "foto": 257,
+        "nome": "Fernanda Borges"
+      }
+    ],
+    [
+      {
+        "edicao": 17,
+        "foto": 258,
+        "nome": "Emilly Araújo"
+      },
+      {
+        "edicao": 17,
+        "foto": 259,
+        "nome": "Vivian Amorim"
+      },
+      {
+        "edicao": 17,
+        "foto": 260,
+        "nome": "Ieda Wobeto"
+      },
+      {
+        "edicao": 17,
+        "foto": 261,
+        "nome": "Marcos Härter"
+      },
+      {
+        "edicao": 17,
+        "foto": 262,
+        "nome": "Marinalva de Almeida"
+      },
+      {
+        "edicao": 17,
+        "foto": 263,
+        "nome": "Ilmar Fonseca"
+      },
+      {
+        "edicao": 17,
+        "foto": 264,
+        "nome": "Daniel Fontes"
+      },
+      {
+        "edicao": 17,
+        "foto": 265,
+        "nome": "Rômulo Neves"
+      },
+      {
+        "edicao": 17,
+        "foto": 266,
+        "nome": "Roberta Freitas"
+      },
+      {
+        "edicao": 17,
+        "foto": 267,
+        "nome": "Pedro Falcão"
+      },
+      {
+        "edicao": 17,
+        "foto": 268,
+        "nome": "Elis Gonçalves"
+      },
+      {
+        "edicao": 17,
+        "foto": 269,
+        "nome": "Manoel Rafaski"
+      },
+      {
+        "edicao": 17,
+        "foto": 270,
+        "nome": "Luiz Felipe Ribeiro"
+      },
+      {
+        "edicao": 17,
+        "foto": 271,
+        "nome": "Mayara Motti"
+      },
+      {
+        "edicao": 17,
+        "foto": 272,
+        "nome": "Gabriela Flor Bitencourt"
+      },
+      {
+        "edicao": 17,
+        "foto": 273,
+        "nome": "Mayla Araújo"
+      },
+      {
+        "edicao": 17,
+        "foto": 274,
+        "nome": "Antônio Rafaski"
+      }
+    ],
+    [
+      {
+        "edicao": 18,
+        "foto": 275,
+        "nome": "Gleici Damasceno"
+      },
+      {
+        "edicao": 18,
+        "foto": 276,
+        "nome": "Kaysar Dadour"
+      },
+      {
+        "edicao": 18,
+        "foto": 277,
+        "nome": "Anna Clara & Airton Lima"
+      },
+      {
+        "edicao": 18,
+        "foto": 278,
+        "nome": "Paula Barbosa"
+      },
+      {
+        "edicao": 18,
+        "foto": 279,
+        "nome": "Breno Simões"
+      },
+      {
+        "edicao": 18,
+        "foto": 280,
+        "nome": "Jéssica Mueller"
+      },
+      {
+        "edicao": 18,
+        "foto": 281,
+        "nome": "Viegas de Carvalho"
+      },
+      {
+        "edicao": 18,
+        "foto": 282,
+        "nome": "Wagner Santiago"
+      },
+      {
+        "edicao": 18,
+        "foto": 283,
+        "nome": "Caruso Junior"
+      },
+      {
+        "edicao": 18,
+        "foto": 284,
+        "nome": "Diego Sabádo"
+      },
+      {
+        "edicao": 18,
+        "foto": 285,
+        "nome": "Patrícia Leite"
+      },
+      {
+        "edicao": 18,
+        "foto": 286,
+        "nome": "Mahmoud Baydoun"
+      },
+      {
+        "edicao": 18,
+        "foto": 287,
+        "nome": "Lucas Fernandes"
+      },
+      {
+        "edicao": 18,
+        "foto": 288,
+        "nome": "Nayara de Deus"
+      },
+      {
+        "edicao": 18,
+        "foto": 289,
+        "nome": "Ana Paula Costa"
+      },
+      {
+        "edicao": 18,
+        "foto": 290,
+        "nome": "Jaqueline Grohalski"
+      },
+      {
+        "edicao": 18,
+        "foto": 291,
+        "nome": "Mara Telles"
+      },
+      {
+        "edicao": 18,
+        "foto": 292,
+        "nome": "Eva & Jorge Lima"
+      }
+    ],
+    [
+      {
+        "edicao": 19,
+        "foto": 293,
+        "nome": "Paula von Sperling"
+      },
+      {
+        "edicao": 18,
+        "foto": 294,
+        "nome": "Alan Possamai"
+      },
+      {
+        "edicao": 18,
+        "foto": 295,
+        "nome": "Carolina Peixinho"
+      },
+      {
+        "edicao": 19,
+        "foto": 296,
+        "nome": "Hariany Almeida"
+      },
+      {
+        "edicao": 19,
+        "foto": 297,
+        "nome": "Rízia Cerqueira"
+      },
+      {
+        "edicao": 19,
+        "foto": 298,
+        "nome": "Gabriela Hebling"
+      },
+      {
+        "edicao": 19,
+        "foto": 299,
+        "nome": "Rodrigo França"
+      },
+      {
+        "edicao": 19,
+        "foto": 300,
+        "nome": "Elana Valenária"
+      },
+      {
+        "edicao": 19,
+        "foto": 301,
+        "nome": "Danrley Ferreira"
+      },
+      {
+        "edicao": 19,
+        "foto": 302,
+        "nome": "Tereza Souza"
+      },
+      {
+        "edicao": 19,
+        "foto": 303,
+        "nome": "Isabella Cecchi"
+      },
+      {
+        "edicao": 19,
+        "foto": 304,
+        "nome": "Maycon Santos"
+      },
+      {
+        "edicao": 19,
+        "foto": 305,
+        "nome": "Diego Wantowsky"
+      },
+      {
+        "edicao": 19,
+        "foto": 306,
+        "nome": "Hana Khalil"
+      },
+      {
+        "edicao": 19,
+        "foto": 307,
+        "nome": "Gustavo Soares"
+      },
+      {
+        "edicao": 19,
+        "foto": 308,
+        "nome": "Vanderson Brito"
+      },
+      {
+        "edicao": 19,
+        "foto": 309,
+        "nome": "Vinicius Póvoa"
+      },
+      {
+        "edicao": 19,
+        "foto": 310,
+        "nome": "Fábio Alano"
+      }
+    ],
+    [
+      {
+        "edicao": 20,
+        "foto": 311,
+        "nome": "Felipe Prior"
+      },
+      {
+        "edicao": 20,
+        "foto": 312,
+        "nome": "Babu Santana"
+      },
+      {
+        "edicao": 20,
+        "foto": 313,
+        "nome": "Flayslane Silva"
+      },
+      {
+        "edicao": 20,
+        "foto": 314,
+        "nome": "Bianca Andrade"
+      },
+      {
+        "edicao": 20,
+        "foto": 315,
+        "nome": "Gabi Martins"
+      },
+      {
+        "edicao": 20,
+        "foto": 316,
+        "nome": "Gizelly Bicalho"
+      },
+      {
+        "edicao": 20,
+        "foto": 317,
+        "nome": "Pyong Lee"
+      },
+      {
+        "edicao": 20,
+        "foto": 318,
+        "nome": "Guilherme Napolitano"
+      },
+      {
+        "edicao": 20,
+        "foto": 319,
+        "nome": "Hadson Nery"
+      },
+      {
+        "edicao": 20,
+        "foto": 320,
+        "nome": "Lucas Chumbo"
+      },
+      {
+        "edicao": 20,
+        "foto": 321,
+        "nome": "Lucas Gallina"
+      },
+      {
+        "edicao": 20,
+        "foto": 322,
+        "nome": "Manu Gavassi"
+      },
+      {
+        "edicao": 20,
+        "foto": 323,
+        "nome": "Marcela Mcgowan"
+      },
+      {
+        "edicao": 20,
+        "foto": 324,
+        "nome": "Mari Gonzalez"
+      },
+      {
+        "edicao": 20,
+        "foto": 325,
+        "nome": "Thelma Assis"
+      },
+      {
+        "edicao": 20,
+        "foto": 326,
+        "nome": "Petrix Barbosa"
+      },
+      {
+        "edicao": 20,
+        "foto": 327,
+        "nome": "Victor Hugo Teixeira"
+      },
+      {
+        "edicao": 20,
+        "foto": 328,
+        "nome": "Rafa Kalimann"
+      },
+      {
+        "edicao": 20,
+        "foto": 329,
+        "nome": "Ivy Moares"
+      },
+      {
+        "edicao": 20,
+        "foto": 330,
+        "nome": "Daniel Lenhartd"
+      },
+      {
+        "edicao": 20,
+        "foto": 331,
+        "nome": "Renata Dornelles"
+      },
+      {
+        "edicao": 20,
+        "foto": 332,
+        "nome": "Daniel Caon"
+      }
+    ],
+    [
+      {
+        "edicao": 21,
+        "foto": 333,
+        "nome": "Arthur Louzada"
+      },
+      {
+        "edicao": 21,
+        "foto": 334,
+        "nome": "Caio Farah"
+      },
+      {
+        "edicao": 21,
+        "foto": 335,
+        "nome": "Camilla de Lucas"
+      },
+      {
+        "edicao": 21,
+        "foto": 336,
+        "nome": "Carla Diaz"
+      },
+      {
+        "edicao": 21,
+        "foto": 337,
+        "nome": "Fiuk"
+      },
+      {
+        "edicao": 21,
+        "foto": 338,
+        "nome": "Gilberto Nogueira"
+      },
+      {
+        "edicao": 21,
+        "foto": 339,
+        "nome": "João Luiz Pedrosa"
+      },
+      {
+        "edicao": 21,
+        "foto": 340,
+        "nome": "Juliette Feitosa"
+      },
+      {
+        "edicao": 21,
+        "foto": 341,
+        "nome": "Karol Conká"
+      },
+      {
+        "edicao": 21,
+        "foto": 342,
+        "nome": "Lumena Santos"
+      },
+      {
+        "edicao": 21,
+        "foto": 343,
+        "nome": "Nego Di"
+      },
+      {
+        "edicao": 21,
+        "foto": 344,
+        "nome": "Pocah"
+      },
+      {
+        "edicao": 21,
+        "foto": 345,
+        "nome": "Projota"
+      },
+      {
+        "edicao": 21,
+        "foto": 346,
+        "nome": "Rodolffo Matthaus"
+      },
+      {
+        "edicao": 21,
+        "foto": 347,
+        "nome": "Sarah Andrade"
+      },
+      {
+        "edicao": 21,
+        "foto": 348,
+        "nome": "Thaís Faria"
+      },
+      {
+        "edicao": 21,
+        "foto": 349,
+        "nome": "Viih Tube"
+      },
+      {
+        "edicao": 21,
+        "foto": 350,
+        "nome": "Arcrebiano de Araújo"
+      },
+      {
+        "edicao": 21,
+        "foto": 351,
+        "nome": "Lucas Penteado"
+      },
+      {
+        "edicao": 21,
+        "foto": 352,
+        "nome": "Kerline Farias"
+      }
+    ]
+  ]
+}
