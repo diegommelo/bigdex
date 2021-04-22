@@ -1,0 +1,8 @@
+planta
+fogo
+fantasma
+normal
+fada
+sombrio
+venenoso
+lutador
