@@ -6,3 +6,5 @@ fada
 sombrio
 venenoso
 lutador
+arcrebiano
+psíquico

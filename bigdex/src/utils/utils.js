@@ -12,7 +12,7 @@ export const TIPOS = {
   fantasma: {
     name: 'fogo',
     color:
-      'inline-block rounded-full text-white bg-grey-400 hover:bg-grey-500 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+      'inline-block rounded-full text-white bg-gray-400 hover:bg-gray-500 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
   },
   normal: {
     name: 'fogo',
@@ -27,7 +27,7 @@ export const TIPOS = {
   sombrio: {
     name: 'fogo',
     color:
-      'inline-block rounded-full text-white bg-red-400 hover:bg-red-500 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+      'inline-block rounded-full text-white bg-gray-800 hover:bg-gray-900 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
   },
   venenoso: {
     name: 'fogo',
@@ -38,6 +38,16 @@ export const TIPOS = {
     name: 'fogo',
     color:
       'inline-block rounded-full text-white bg-red-400 hover:bg-red-500 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+  },
+  arcrebiano: {
+    name: 'fogo',
+    color:
+      'inline-block rounded-full text-white bg-orange-400 hover:bg-orange-500 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+  },
+  psiquico: {
+    name: 'fogo',
+    color:
+      'inline-block rounded-full text-white bg-purple-400 hover:bg-purple-500 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
   },
 };
 

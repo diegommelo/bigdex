@@ -18,11 +18,9 @@ export default function ShowBBB({ participant }) {
         alt=""
       />
       <div className="py-4">
-        <span className="text-center  break-normal">
-          {parseName(nome).name}
-        </span>
+        <span className="text-center break-normal">{parseName(nome).name}</span>
         <br />
-        <span className="py-3 text-center  break-normal">
+        <span className="py-3 text-center break-normal">
           {nome.split(' ').length > 1 ? parseName(nome).lastName : ''}
         </span>
       </div>
