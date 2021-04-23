@@ -108,7 +108,6 @@
         "foto": 11,
         "nome": "Xaiane Dantas",
         "tipo": [
-          "fada",
           "fogo"
         ],
         "campeao": false,
@@ -409,7 +408,8 @@
         "foto": 40,
         "nome": "Cida dos Santos",
         "tipo": [
-          "fada"
+          "fada",
+          "lutador"
         ],
         "campeao": true,
         "primeiroEliminado": false
@@ -440,7 +440,7 @@
         "nome": "Solange Couto",
         "tipo": [
           "fada",
-          "fogo"
+          "psiquico"
         ],
         "campeao": false,
         "primeiroEliminado": false
@@ -540,6 +540,162 @@
         "edicao": 4,
         "foto": 53,
         "nome": "Tatiana Giordano",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": true
+      }
+    ],
+    [
+      {
+        "edicao": 5,
+        "foto": 54,
+        "nome": "Jean Wyllys",
+        "tipo": [
+          "fada",
+          "fogo"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 55,
+        "nome": "Grazielli Massafera",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 56,
+        "nome": "Sammy Ueda",
+        "tipo": [
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 57,
+        "nome": "Alan Passos",
+        "tipo": [
+          "normal",
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 58,
+        "nome": "Tatiane Pink",
+        "tipo": [
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 59,
+        "nome": "Karla Barbosa",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 60,
+        "nome": "Aline dos Santos",
+        "tipo": [
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 61,
+        "nome": "Tatiana Machado",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 62,
+        "nome": "Natália Nara",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 63,
+        "nome": "Paulo André Costa",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 64,
+        "nome": "Rogério Padovan",
+        "tipo": [
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 65,
+        "nome": "Giullianno Ciarelli",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 66,
+        "nome": "Marcos Maçaneiro",
+        "tipo": [
+          "normal",
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 67,
+        "nome": "Marielza Santos",
+        "tipo": [
+          "psiquico",
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 5,
+        "foto": 68,
+        "nome": "Juliana Brandão",
         "tipo": [
           "fantasma"
         ],

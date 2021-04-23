@@ -3,9 +3,12 @@ import { parseName, TIPOS } from '../utils/utils';
 
 const URL_FOTO = 'https://paredao.diegomelo.com/img/fotos/';
 
-export default function ShowBBB({ participant }) {
+export default function ShowBBB({ participant, handleFilterByType }) {
   const { nome, foto, edicao, tipo } = participant;
 
+  function onFilterByType(e) {
+    handleFilterByType(e.currentTarget.value);
+  }
   return (
     <figure className="bg-gray-100 shadow rounded-xl shadow rounded-xl whitespace-line md:w-44 p-2 min-h-40 m-4">
       <div className="flex flex-row md:space-x-26 space-x-20 mb-2">
@@ -27,7 +30,15 @@ export default function ShowBBB({ participant }) {
       <div className="mx-auto">
         {tipo.map((type, i) => {
           return (
-            <button key={i} className={'text-xs ' + TIPOS[type].color}>
+            <button
+              key={i}
+              className={
+                'text-xs inline-block rounded-full text-white duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100 ' +
+                TIPOS[type].color
+              }
+              onClick={onFilterByType}
+              value={type}
+            >
               {type}
             </button>
           );

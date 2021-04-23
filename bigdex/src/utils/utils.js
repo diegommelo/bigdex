@@ -1,53 +1,47 @@
 export const TIPOS = {
+  todos: {
+    name: 'todos',
+    color: 'bg-indigo-400 hover:bg-indigo-400',
+  },
   planta: {
     name: 'planta',
-    color:
-      'inline-block rounded-full text-white bg-green-400 hover:bg-green-500 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+    color: 'bg-green-400 hover:bg-green-500',
   },
   fogo: {
     name: 'fogo',
-    color:
-      'inline-block rounded-full text-white bg-red-600 hover:bg-red-700 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+    color: 'bg-red-600 hover:bg-red-700',
   },
   fantasma: {
-    name: 'fogo',
-    color:
-      'inline-block rounded-full text-white bg-gray-400 hover:bg-gray-500 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+    name: 'fantasma',
+    color: 'bg-gray-400 hover:bg-gray-500',
   },
   normal: {
-    name: 'fogo',
-    color:
-      'inline-block rounded-full text-white bg-gray-600 hover:bg-gray-700 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+    name: 'normal',
+    color: 'bg-gray-600 hover:bg-gray-700',
   },
   fada: {
-    name: 'fogo',
-    color:
-      'inline-block rounded-full text-white bg-pink-400 hover:bg-pink-500 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+    name: 'fada',
+    color: 'bg-pink-400 hover:bg-pink-500',
   },
   sombrio: {
-    name: 'fogo',
-    color:
-      'inline-block rounded-full text-white bg-gray-800 hover:bg-gray-900 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+    name: 'sombrio',
+    color: 'bg-gray-800 hover:bg-gray-900',
   },
   venenoso: {
-    name: 'fogo',
-    color:
-      'inline-block rounded-full text-white bg-green-600 hover:bg-green-700 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+    name: 'venenoso',
+    color: 'bg-green-600 hover:bg-green-700',
   },
   lutador: {
-    name: 'fogo',
-    color:
-      'inline-block rounded-full text-white bg-red-400 hover:bg-red-500 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+    name: 'lutador',
+    color: 'bg-red-400 hover:bg-red-500',
   },
   arcrebiano: {
-    name: 'fogo',
-    color:
-      'inline-block rounded-full text-white bg-orange-400 hover:bg-orange-500 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+    name: 'arcrebiano',
+    color: 'bg-yellow-400 hover:bg-yellow-500',
   },
   psiquico: {
-    name: 'fogo',
-    color:
-      'inline-block rounded-full text-white bg-purple-400 hover:bg-purple-500 duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100',
+    name: 'psisquico',
+    color: 'bg-purple-400 hover:bg-purple-500',
   },
 };
 
@@ -77,4 +71,28 @@ export function parseName(input) {
   }
 
   return result;
+}
+/**
+ * Remove acentos de caracteres (github.com/marioluan)
+ * @param  {String} stringComAcento [string que contem os acentos]
+ * @return {String}                 [string sem acentos]
+ */
+export function stripAccentuation(newStringComAcento) {
+  var string = newStringComAcento;
+  var mapaAcentosHex = {
+    a: /[\xE0-\xE6]/g,
+    e: /[\xE8-\xEB]/g,
+    i: /[\xEC-\xEF]/g,
+    o: /[\xF2-\xF6]/g,
+    u: /[\xF9-\xFC]/g,
+    c: /\xE7/g,
+    n: /\xF1/g,
+  };
+
+  for (var letra in mapaAcentosHex) {
+    var expressaoRegular = mapaAcentosHex[letra];
+    string = string.replace(expressaoRegular, letra);
+  }
+
+  return string;
 }

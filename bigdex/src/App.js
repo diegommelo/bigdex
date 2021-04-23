@@ -1,7 +1,9 @@
 import { useState, useEffect } from 'react';
+import { stripAccentuation } from './utils/utils';
 import './App.css';
 import ListBBBs from './components/ListBBBs';
 import Search from './components/Search';
+import Types from './components/Types';
 
 const URL_API = 'http://localhost:3000/participantes';
 
@@ -11,6 +13,7 @@ export default function App() {
   // const [selectedBBB, setSelectedBBB] = useState(0);
   // const [selectedBrother, setSelectedBrother] = useState(0);
   const [searchBBB, setSearchBBB] = useState('');
+  const [selectType, setSelectType] = useState('');
 
   useEffect(() => {
     async function getAllBBBs() {
@@ -26,6 +29,10 @@ export default function App() {
     setFilteredBBBs(bbbSearch(searchBBB));
   }, [searchBBB]);
 
+  useEffect(() => {
+    setFilteredBBBs(filterBBBsByType(selectType));
+  }, [selectType]);
+
   const allEditions = allBBBs.map((_, index) => {
     let edicao = {
       id: index,
@@ -34,15 +41,34 @@ export default function App() {
     return edicao;
   });
 
-  function onSearchBBB(search) {
+  function handleSearchBBB(search) {
     setSearchBBB(search);
+  }
+
+  function handleFilterType(type) {
+    setSelectType(type);
   }
 
   function bbbSearch(search) {
     let resp = [];
     allBBBs.map((edition) => {
       let res = edition.filter((participant) => {
-        return participant.nome.toLowerCase().includes(search.toLowerCase());
+        let striped = stripAccentuation(participant.nome.toLowerCase());
+        return striped.includes(search.toLowerCase());
+      });
+      resp.push(res);
+    });
+    return resp;
+  }
+
+  function filterBBBsByType(type) {
+    let resp = [];
+    if (type === 'todos') {
+      resp = allBBBs;
+    }
+    allBBBs.map((edition) => {
+      let res = edition.filter((participant) => {
+        return participant.tipo.includes(type);
       });
       resp.push(res);
     });
@@ -51,8 +77,14 @@ export default function App() {
 
   return (
     <div className="App">
-      <Search onSearch={onSearchBBB} />
-      <ListBBBs allEditions={allEditions} allBBBs={filteredBBBs} />;
+      <Search onSearch={handleSearchBBB} />
+      <Types handleFilterByType={handleFilterType} />
+      <ListBBBs
+        allEditions={allEditions}
+        allBBBs={filteredBBBs}
+        filterByType={handleFilterType}
+      />
+      ;
     </div>
   );
 }
