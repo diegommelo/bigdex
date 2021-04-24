@@ -1,7 +1,7 @@
 import React from 'react';
 import ShowBBB from './ShowBBB';
 
-export default function ListBBBs({ filterByType, allEditions, allBBBs }) {
+export default function ListBBBs({ filterByType, allBBBs }) {
   function filterBBBbyType(e) {
     filterByType(e);
   }

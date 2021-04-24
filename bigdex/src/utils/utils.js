@@ -1,7 +1,7 @@
 export const TIPOS = {
   todos: {
     name: 'todos',
-    color: 'bg-indigo-400 hover:bg-indigo-400',
+    color: 'bg-indigo-400 hover:bg-indigo-500',
   },
   planta: {
     name: 'planta',
