@@ -17,6 +17,7 @@ export default function App() {
   const [selectType, setSelectType] = useState('');
   const [allEditions, setAllEditions] = useState([]);
   const [selectedEdition, setSelectedEdition] = useState(0);
+  const [showFilters, setShowFilters] = useState(true);
 
   useEffect(() => {
     async function getAllBBBs() {
@@ -58,6 +59,10 @@ export default function App() {
 
   function handleFilterByEdition(edition) {
     setSelectedEdition(edition);
+  }
+
+  function handleShowFilters() {
+    setShowFilters(!showFilters);
   }
 
   function bbbSearch(search) {
@@ -104,16 +109,26 @@ export default function App() {
     <div className="App">
       <img
         src="/logo.png"
-        alt="Big Dex Brasil"
+        alt="BigDex Brasil"
         className="mx-auto md:w-1/12 w-1/4 m-2"
       />
-      <h1 className="font-semibold text-4xl m-4">Big Dex Brasil</h1>
+      <h1 className="font-semibold text-4xl m-4">BigDex Brasil</h1>
       <Search onSearch={handleSearchBBB} />
-      <Types handleFilterByType={handleFilterType} />
-      <Editions
-        editions={allEditions}
-        onFilterByEdition={handleFilterByEdition}
-      />
+      <button className="mt-4" onClick={handleShowFilters}>
+        <span className={showFilters ? 'hidden' : ''}>
+          Exibir filtros &#9662;
+        </span>
+        <span className={showFilters ? '' : 'hidden'}>
+          Esconder filtros &#9652;
+        </span>
+      </button>
+      <div className={showFilters ? '' : 'hidden'}>
+        <Types handleFilterByType={handleFilterType} />
+        <Editions
+          editions={allEditions}
+          onFilterByEdition={handleFilterByEdition}
+        />
+      </div>
       <ListBBBs
         allEditions={allEditions}
         allBBBs={filteredBBBs}

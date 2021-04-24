@@ -702,6 +702,153 @@
         "campeao": false,
         "primeiroEliminado": true
       }
+    ],
+    [
+      {
+        "edicao": 6,
+        "foto": 69,
+        "nome": "Mara Viana",
+        "tipo": [
+          "lutador"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 70,
+        "nome": "Mariana Felício",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 71,
+        "nome": "Rafael Valente",
+        "tipo": [
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 72,
+        "nome": "Agustinho Mendonça",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 73,
+        "nome": "Gustavo Borges",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 74,
+        "nome": "Iran Alves",
+        "tipo": [
+          "normal",
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 75,
+        "nome": "Carlos Castello",
+        "tipo": [
+          "venenoso",
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 76,
+        "nome": "Inês Gomes",
+        "tipo": [
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 77,
+        "nome": "Thaís Macedo",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 78,
+        "nome": "Léa Ferreira",
+        "tipo": [
+          "normal",
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 79,
+        "nome": "Roberta Brasil",
+        "tipo": [
+          "fada",
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 80,
+        "nome": "Daniel Saullo",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 81,
+        "nome": "Dan Costa",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 6,
+        "foto": 82,
+        "nome": "Juliana Canabarro",
+        "tipo": [
+          "fada",
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": true
+      }
     ]
   ]
 }
