@@ -4,6 +4,7 @@ import './App.css';
 import ListBBBs from './components/ListBBBs';
 import Search from './components/Search';
 import Types from './components/Types';
+import Editions from './components/Editions';
 
 const URL_API = 'http://localhost:3000/participantes';
 
@@ -14,6 +15,8 @@ export default function App() {
   // const [selectedBrother, setSelectedBrother] = useState(0);
   const [searchBBB, setSearchBBB] = useState('');
   const [selectType, setSelectType] = useState('');
+  const [allEditions, setAllEditions] = useState([]);
+  const [selectedEdition, setSelectedEdition] = useState(0);
 
   useEffect(() => {
     async function getAllBBBs() {
@@ -21,6 +24,14 @@ export default function App() {
       const data = await res.json();
       setAllBBBs(data);
       setFilteredBBBs(data);
+      let editionsArray = await Array.from({
+        length: data.length,
+      }).map((_, index) => ({
+        id: index + 1,
+        description: index + 1 + 'ª geração',
+        isChecked: true,
+      }));
+      setAllEditions(editionsArray);
     }
     getAllBBBs();
   }, []);
@@ -33,13 +44,9 @@ export default function App() {
     setFilteredBBBs(filterBBBsByType(selectType));
   }, [selectType]);
 
-  const allEditions = allBBBs.map((_, index) => {
-    let edicao = {
-      id: index,
-      description: `BBB ${index + 1}`,
-    };
-    return edicao;
-  });
+  useEffect(() => {
+    setFilteredBBBs(filterByEdition(selectedEdition));
+  }, [selectedEdition]);
 
   function handleSearchBBB(search) {
     setSearchBBB(search);
@@ -47,6 +54,10 @@ export default function App() {
 
   function handleFilterType(type) {
     setSelectType(type);
+  }
+
+  function handleFilterByEdition(edition) {
+    setSelectedEdition(edition);
   }
 
   function bbbSearch(search) {
@@ -64,7 +75,7 @@ export default function App() {
   function filterBBBsByType(type) {
     let resp = [];
     if (type === 'todos') {
-      resp = allBBBs;
+      resp = [...allBBBs];
     }
     allBBBs.map((edition) => {
       let res = edition.filter((participant) => {
@@ -75,10 +86,34 @@ export default function App() {
     return resp;
   }
 
+  function filterByEdition(editionSelected) {
+    let resp = [];
+    if (parseInt(editionSelected) === 0) {
+      resp = [...allBBBs];
+    }
+    allBBBs.map((edition) => {
+      let res = edition.filter((participant) => {
+        return participant.edicao === parseInt(editionSelected);
+      });
+      resp.push(res);
+    });
+    return resp;
+  }
+
   return (
     <div className="App">
+      <img
+        src="/logo.png"
+        alt="Big Dex Brasil"
+        className="mx-auto md:w-1/12 w-1/4 m-2"
+      />
+      <h1 className="font-semibold text-4xl m-4">Big Dex Brasil</h1>
       <Search onSearch={handleSearchBBB} />
       <Types handleFilterByType={handleFilterType} />
+      <Editions
+        editions={allEditions}
+        onFilterByEdition={handleFilterByEdition}
+      />
       <ListBBBs
         allEditions={allEditions}
         allBBBs={filteredBBBs}

@@ -8,7 +8,7 @@ export default function Search({ onSearch }) {
   return (
     <div>
       <input
-        className="w-9/12 p-4 mt-4"
+        className="w-2/3 md:w-1/2 p-4 mt-4"
         type="search"
         placeholder="Pesquisar BBB (sem acentos)"
         onChange={handleChange}
