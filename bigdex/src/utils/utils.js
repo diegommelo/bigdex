@@ -37,11 +37,15 @@ export const TIPOS = {
   },
   arcrebiano: {
     name: 'arcrebiano',
-    color: 'bg-yellow-400 hover:bg-yellow-500',
+    color: 'bg-yellow-700 hover:bg-yellow-800',
   },
   psiquico: {
     name: 'psisquico',
     color: 'bg-purple-400 hover:bg-purple-500',
+  },
+  eletrico: {
+    name: 'psisquico',
+    color: 'bg-yellow-400 hover:bg-yellow-500',
   },
 };
 

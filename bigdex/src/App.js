@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { stripAccentuation } from './utils/utils';
+import { stripAccentuation, TIPOS } from './utils/utils';
 import './App.css';
 import ListBBBs from './components/ListBBBs';
 import Search from './components/Search';
@@ -18,6 +18,7 @@ export default function App() {
   const [allEditions, setAllEditions] = useState([]);
   const [selectedEdition, setSelectedEdition] = useState(0);
   const [showFilters, setShowFilters] = useState(true);
+  const [filteredBy, setFilteredBy] = useState('');
 
   useEffect(() => {
     async function getAllBBBs() {
@@ -30,7 +31,6 @@ export default function App() {
       }).map((_, index) => ({
         id: index + 1,
         description: index + 1 + 'ª geração',
-        isChecked: true,
       }));
       setAllEditions(editionsArray);
     }
@@ -39,14 +39,17 @@ export default function App() {
 
   useEffect(() => {
     setFilteredBBBs(bbbSearch(searchBBB));
+    setFilteredBy({ filter: 'name', value: 'Nome' });
   }, [searchBBB]);
 
   useEffect(() => {
     setFilteredBBBs(filterBBBsByType(selectType));
+    setFilteredBy({ filter: 'type', value: selectType });
   }, [selectType]);
 
   useEffect(() => {
     setFilteredBBBs(filterByEdition(selectedEdition));
+    setFilteredBy({ filter: 'edition', value: selectedEdition });
   }, [selectedEdition]);
 
   function handleSearchBBB(search) {
@@ -72,7 +75,7 @@ export default function App() {
         let striped = stripAccentuation(participant.nome.toLowerCase());
         return striped.includes(search.toLowerCase());
       });
-      resp.push(res);
+      return resp.push(res);
     });
     return resp;
   }
@@ -86,7 +89,7 @@ export default function App() {
       let res = edition.filter((participant) => {
         return participant.tipo.includes(type);
       });
-      resp.push(res);
+      return resp.push(res);
     });
     return resp;
   }
@@ -100,7 +103,7 @@ export default function App() {
       let res = edition.filter((participant) => {
         return participant.edicao === parseInt(editionSelected);
       });
-      resp.push(res);
+      return resp.push(res);
     });
     return resp;
   }
@@ -129,12 +132,34 @@ export default function App() {
           onFilterByEdition={handleFilterByEdition}
         />
       </div>
+      <div>
+        <p class="text-left w-9/12 mx-auto md:pl-12 mt-4">
+          Filtrado por: &nbsp;
+          {filteredBy.filter === 'type' && (
+            <button
+              className={
+                'text-xs inline-block rounded-full text-white duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100 ' +
+                TIPOS[filteredBy.value].color
+              }
+            >
+              {filteredBy.value}
+            </button>
+          )}
+          <span className={filteredBy.filter === 'edition' ? '' : 'hidden'}>
+            {filteredBy.filter === 'edition' && parseInt(filteredBy.value) !== 0
+              ? filteredBy.value + 'ª geração'
+              : 'Todas as gerações'}
+          </span>
+          <span classname={filteredBy.filter === 'name' ? '' : 'hidden'}>
+            {filteredBy.filter === 'name' && filteredBy.value}
+          </span>
+        </p>
+      </div>
       <ListBBBs
         allEditions={allEditions}
         allBBBs={filteredBBBs}
         filterByType={handleFilterType}
       />
-      ;
     </div>
   );
 }

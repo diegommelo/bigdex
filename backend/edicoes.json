@@ -181,7 +181,7 @@
         "foto": 18,
         "nome": "Fabricio Amaral",
         "tipo": [
-          "venenoso"
+          "normal"
         ],
         "campeao": false,
         "primeiroEliminado": false
@@ -541,7 +541,8 @@
         "foto": 53,
         "nome": "Tatiana Giordano",
         "tipo": [
-          "fantasma"
+          "sombrio",
+          "venenoso"
         ],
         "campeao": false,
         "primeiroEliminado": true
@@ -574,7 +575,7 @@
         "foto": 56,
         "nome": "Sammy Ueda",
         "tipo": [
-          "psiquico"
+          "fada"
         ],
         "campeao": false,
         "primeiroEliminado": false
@@ -595,7 +596,8 @@
         "foto": 58,
         "nome": "Tatiane Pink",
         "tipo": [
-          "psiquico"
+          "psiquico",
+          "eletrico"
         ],
         "campeao": false,
         "primeiroEliminado": false
@@ -781,7 +783,7 @@
         "foto": 76,
         "nome": "Inês Gomes",
         "tipo": [
-          "psiquico"
+          "normal"
         ],
         "campeao": false,
         "primeiroEliminado": false
@@ -848,6 +850,2354 @@
         ],
         "campeao": false,
         "primeiroEliminado": true
+      }
+    ],
+    [
+      {
+        "edicao": 7,
+        "foto": 83,
+        "nome": "Diego Gasques",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 84,
+        "nome": "Carollini Honório",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 85,
+        "nome": "Bruna Tavares",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 86,
+        "nome": "Analy Rosa",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 87,
+        "nome": "Airton Cabral",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 88,
+        "nome": "Alberto Pimentel",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 89,
+        "nome": "Fani Pacheco",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 90,
+        "nome": "Flavia Viana",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 91,
+        "nome": "Íris Stefanelli",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 92,
+        "nome": "Bruno Jácome",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 93,
+        "nome": "Fernando Luiz Bacalow",
+        "tipo": [
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 94,
+        "nome": "Felipe Cobra",
+        "tipo": [
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 95,
+        "nome": "Alan Pierre Miranda",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 96,
+        "nome": "Liane de Souza",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 97,
+        "nome": "Daniel Belangero",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 7,
+        "foto": 98,
+        "nome": "Juliana Regueiro",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": true
+      }
+    ],
+    [
+      {
+        "edicao": 8,
+        "foto": 99,
+        "nome": "Rafinha Ribeiro",
+        "tipo": [
+          "lutador",
+          "eletrico"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 100,
+        "nome": "Gyselle Soares",
+        "tipo": [
+          "planta",
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 101,
+        "nome": "Natália Casassola",
+        "tipo": [
+          "fogo",
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 102,
+        "nome": "Marcos Silva",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 103,
+        "nome": "Thatiana Bione",
+        "tipo": [
+          "sombrio",
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 104,
+        "nome": "Marcelo Arantes",
+        "tipo": [
+          "psiquico",
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 105,
+        "nome": "Juliana Góes",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 106,
+        "nome": "Felipe Basílio",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 107,
+        "nome": "Fernando Mesquita",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 108,
+        "nome": "Bianca Jahara",
+        "tipo": [
+          "psiquico",
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 109,
+        "nome": "Thalita Lippi",
+        "tipo": [
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 110,
+        "nome": "Alexandre Scaquette",
+        "tipo": [
+          "fantasma",
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 111,
+        "nome": "Rafael Memória",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 8,
+        "foto": 112,
+        "nome": "Jaqueline Khury",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": true
+      }
+    ],
+    [
+      {
+        "edicao": 9,
+        "foto": 113,
+        "nome": "Maximiliano Porto",
+        "tipo": [
+          "lutador"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 114,
+        "nome": "Priscila Pires",
+        "tipo": [
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 115,
+        "nome": "Francine Piaia",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 116,
+        "nome": "Ana Carolina Madeira",
+        "tipo": [
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 117,
+        "nome": "Flávio Steffli",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 118,
+        "nome": "Josiane de Oliveira",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 119,
+        "nome": "Milena Fagundes",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 120,
+        "nome": "Naiá Giannocaro",
+        "tipo": [
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 121,
+        "nome": "Maíra Cardi",
+        "tipo": [
+          "fogo",
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 122,
+        "nome": "Ralf Krause",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 123,
+        "nome": "Mirla Prado",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 124,
+        "nome": "André de Almeida",
+        "tipo": [
+          "fantasma",
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 125,
+        "nome": "Emanuel Milchevski",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 126,
+        "nome": "Newton Siqueira",
+        "tipo": [
+          "arcrebiano",
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 127,
+        "nome": "Alexandre Gomes",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 128,
+        "nome": "Leonardo Jancu",
+        "tipo": [
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 129,
+        "nome": "Norberto Carias",
+        "tipo": [
+          "fantasma",
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 130,
+        "nome": "Michelle da Costa",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 131,
+        "nome": "Maíra Britto",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 9,
+        "foto": 132,
+        "nome": "Daniel Gevaerd",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      }
+    ],
+    [
+      {
+        "edicao": 10,
+        "foto": 133,
+        "nome": "Marcelo Dourado",
+        "tipo": [
+          "lutador",
+          "fada"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 134,
+        "nome": "Fernanda Cardoso",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 135,
+        "nome": "Cadu Parga",
+        "tipo": [
+          "arcrebiano"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 136,
+        "nome": "Lia Kheireddine",
+        "tipo": [
+          "eletrico",
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 137,
+        "nome": "Dicesar Ferreira",
+        "tipo": [
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 138,
+        "nome": "Anamara Brito",
+        "tipo": [
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 139,
+        "nome": "Sérgio Franceschini",
+        "tipo": [
+          "fada",
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 140,
+        "nome": "Michel Turtchin",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 141,
+        "nome": "Eliéser Ambrósio",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 142,
+        "nome": "Cláudia Colucci",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 143,
+        "nome": "Angélica Martins",
+        "tipo": [
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 144,
+        "nome": "Elenita Rodrigues",
+        "tipo": [
+          "psiquico",
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 145,
+        "nome": "Uilliam Cardoso",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 146,
+        "nome": "Alex Vilanova",
+        "tipo": [
+          "sombrio",
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 147,
+        "nome": "Tessália Serighelli",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 148,
+        "nome": "Ana Marcela Alves",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 10,
+        "foto": 149,
+        "nome": "Joseane Oliveira",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": true
+      }
+    ],
+    [
+      {
+        "edicao": 11,
+        "foto": 150,
+        "nome": "Maria Melillo",
+        "tipo": [
+          "fogo",
+          "eletrico"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 151,
+        "nome": "Wesley Schunk",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 152,
+        "nome": "Daniel Rolim",
+        "tipo": [
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 153,
+        "nome": "Diana Balsini",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 154,
+        "nome": "Rodrigão Gomes",
+        "tipo": [
+          "arcrebiano"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 155,
+        "nome": "Paula Leite",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 156,
+        "nome": "Jaqueline Faria",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 157,
+        "nome": "Maurício Joaquim",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 158,
+        "nome": "Talula Pascoli",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 159,
+        "nome": "Janaína dos Santos",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 160,
+        "nome": "Diogo Preto",
+        "tipo": [
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 161,
+        "nome": "Adriana Santanna",
+        "tipo": [
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 162,
+        "nome": "Natália Castro",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 163,
+        "nome": "Lucival França",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 164,
+        "nome": "Cristiano Naya",
+        "tipo": [
+          "arcrebiano"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 165,
+        "nome": "Igor Serra",
+        "tipo": [
+          "planta",
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 166,
+        "nome": "Michelly Freitas",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 167,
+        "nome": "Rodrigo Carvalho",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 11,
+        "foto": 168,
+        "nome": "Ariadna Arantes",
+        "tipo": [
+          "fada",
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": true
+      }
+    ],
+    [
+      {
+        "edicao": 12,
+        "foto": 169,
+        "nome": "Fael Cordeiro",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 170,
+        "nome": "Fabiana Teixeira",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 171,
+        "nome": "Jonas Sulzbach",
+        "tipo": [
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 172,
+        "nome": "Kelly Medeiros",
+        "tipo": [
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 173,
+        "nome": "João Carvalho",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 174,
+        "nome": "Monique Amin",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 175,
+        "nome": "Yuri Fernandes",
+        "tipo": [
+          "arcrebiano"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 176,
+        "nome": "Renata Dávila",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 177,
+        "nome": "Rafa Oliveira",
+        "tipo": [
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 178,
+        "nome": "Laisa Portela",
+        "tipo": [
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 179,
+        "nome": "João Mauricio Dantas",
+        "tipo": [
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 180,
+        "nome": "Ronaldo Peres",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 181,
+        "nome": "Mayara Medeiros",
+        "tipo": [
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 182,
+        "nome": "Jakeline Leal",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 183,
+        "nome": "Analice de Souza",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 12,
+        "foto": 184,
+        "nome": "Daniel Echaniz",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": true
+      }
+    ],
+    [
+      {
+        "edicao": 13,
+        "foto": 185,
+        "nome": "Fernanda Keulla",
+        "tipo": [
+          "fada",
+          "lutador"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 186,
+        "nome": "Nasser Rodrigues",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 187,
+        "nome": "Andressa Ganacin",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 188,
+        "nome": "Natália Casassola",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 189,
+        "nome": "André Martinelli",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 190,
+        "nome": "Fani Pacheco",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 191,
+        "nome": "Kamilla Salgado",
+        "tipo": [
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 192,
+        "nome": "Anamara Brito",
+        "tipo": [
+          "eletrico",
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 193,
+        "nome": "Marcello Soares",
+        "tipo": [
+          "arcrebiano"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 194,
+        "nome": "Eliéser Ambrósio",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 195,
+        "nome": "Ivan Marcondes",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 196,
+        "nome": "Marien Carretero",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 197,
+        "nome": "Yuri Fernandes",
+        "tipo": [
+          "lutador",
+          "arcrebiano"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 198,
+        "nome": "Aslan Cabral",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 199,
+        "nome": "Dhomini Ferreira",
+        "tipo": [
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 200,
+        "nome": "Aline Mattos",
+        "tipo": [
+          "fogo",
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 201,
+        "nome": "Kleber Bambam",
+        "tipo": [
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 202,
+        "nome": "André Coelho",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 203,
+        "nome": "Bernardo Lima",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 204,
+        "nome": "Kelly Baron",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 13,
+        "foto": 205,
+        "nome": "Samara Fonseca",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      }
+    ],
+    [
+      {
+        "edicao": 14,
+        "foto": 206,
+        "nome": "Vanessa Mesquita",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 207,
+        "nome": "Angela Munhoz",
+        "tipo": [
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 208,
+        "nome": "Clara Aguilar",
+        "tipo": [
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 209,
+        "nome": "Marcelo Zagonel",
+        "tipo": [
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 210,
+        "nome": "Valter Araújo",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 211,
+        "nome": "Tatiele Polyana",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 212,
+        "nome": "Cássio Lannes",
+        "tipo": [
+          "eletrico",
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 213,
+        "nome": "Diego Grossi",
+        "tipo": [
+          "arcrebiano",
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 214,
+        "nome": "Aline Dahlen",
+        "tipo": [
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 215,
+        "nome": "Franciele Almeida",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 216,
+        "nome": "Roni Mazon",
+        "tipo": [
+          "arcrebiano"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 217,
+        "nome": "Letícia Santiago",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 218,
+        "nome": "Junior Gianetti",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 219,
+        "nome": "Amanda Gontijo",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 220,
+        "nome": "Vagner Lara",
+        "tipo": [
+          "eletrico",
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 221,
+        "nome": "Bella Maia",
+        "tipo": [
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 222,
+        "nome": "Princy Cavalcante",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 223,
+        "nome": "Rodrigo Lima",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 224,
+        "nome": "Alisson Gomes",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 14,
+        "foto": 225,
+        "nome": "João Almeida",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      }
+    ],
+    [
+      {
+        "edicao": 15,
+        "foto": 226,
+        "nome": "Cézar Lima",
+        "tipo": [
+          "planta",
+          "lutador"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 227,
+        "nome": "Amanda Djehdian",
+        "tipo": [
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 228,
+        "nome": "Fernando Medeiros",
+        "tipo": [
+          "sombrio",
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 229,
+        "nome": "Adrilles Reis",
+        "tipo": [
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 230,
+        "nome": "Mariza Moreira",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 231,
+        "nome": "Rafael Licks",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 232,
+        "nome": "Luan Rosa",
+        "tipo": [
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 233,
+        "nome": "Tamires Peixoto",
+        "tipo": [
+          "fada",
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 234,
+        "nome": "Talita Carvalho",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 235,
+        "nome": "Angélica Ramos",
+        "tipo": [
+          "fogo",
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 236,
+        "nome": "Aline Gotschalg",
+        "tipo": [
+          "fada",
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 237,
+        "nome": "Marco Marcon",
+        "tipo": [
+          "sombrio",
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 238,
+        "nome": "Douglas Ferreira",
+        "tipo": [
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 239,
+        "nome": "Francieli Medeiros",
+        "tipo": [
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 240,
+        "nome": "Julia Barboza",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 15,
+        "foto": 241,
+        "nome": "Rogério Alves",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      }
+    ],
+    [
+      {
+        "edicao": 16,
+        "foto": 242,
+        "nome": "Munik Nunes",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 243,
+        "nome": "Maria Claudia",
+        "tipo": [
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 244,
+        "nome": "Ronan Oliveira",
+        "tipo": [
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 245,
+        "nome": "Geralda Diniz",
+        "tipo": [
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 246,
+        "nome": "Matheus Lisboa",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 247,
+        "nome": "Renan Oliveira",
+        "tipo": [
+          "arcrebiano"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 248,
+        "nome": "Adélia Soares",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 249,
+        "nome": "Ana Paula Renault",
+        "tipo": [
+          "lutador",
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 250,
+        "nome": "Tamiel Baiocchi",
+        "tipo": [
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 251,
+        "nome": "Juliana Dias",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 252,
+        "nome": "Daniel Manzieri",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 253,
+        "nome": "Alan Marinho",
+        "tipo": [
+          "planta",
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 254,
+        "nome": "Laércio de Moura",
+        "tipo": [
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 255,
+        "nome": "Harumy Ishihara",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 256,
+        "nome": "William de Oliveira",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 16,
+        "foto": 257,
+        "nome": "Fernanda Borges",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      }
+    ],
+    [
+      {
+        "edicao": 17,
+        "foto": 258,
+        "nome": "Emilly Araújo",
+        "tipo": [
+          "psiquico"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 259,
+        "nome": "Vivian Amorim",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 260,
+        "nome": "Ieda Wobeto",
+        "tipo": [
+          "fada"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 261,
+        "nome": "Marcos Härter",
+        "tipo": [
+          "sombrio",
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 262,
+        "nome": "Marinalva de Almeida",
+        "tipo": [
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 263,
+        "nome": "Ilmar Fonseca",
+        "tipo": [
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 264,
+        "nome": "Daniel Fontes",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 265,
+        "nome": "Rômulo Neves",
+        "tipo": [
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 266,
+        "nome": "Roberta Freitas",
+        "tipo": [
+          "fantasma"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 267,
+        "nome": "Pedro Falcão",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 268,
+        "nome": "Elis Gonçalves",
+        "tipo": [
+          "fogo",
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 269,
+        "nome": "Manoel Rafaski",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 270,
+        "nome": "Luiz Felipe Ribeiro",
+        "tipo": [
+          "arcrebiano"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 271,
+        "nome": "Mayara Motti",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 272,
+        "nome": "Gabriela Flor Bitencourt",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 273,
+        "nome": "Mayla Araújo",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 17,
+        "foto": 274,
+        "nome": "Antônio Rafaski",
+        "tipo": [
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      }
+    ],
+    [
+      {
+        "edicao": 18,
+        "foto": 275,
+        "nome": "Gleici Damasceno",
+        "tipo": [
+          "fada",
+          "lutador"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 276,
+        "nome": "Kaysar Dadour",
+        "tipo": [
+          "lutador",
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 277,
+        "nome": "Anna Clara & Airton Lima",
+        "tipo": [
+          "fada",
+          "eletrico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 278,
+        "nome": "Paula Barbosa",
+        "tipo": [
+          "fada",
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 279,
+        "nome": "Breno Simões",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 280,
+        "nome": "Jéssica Mueller",
+        "tipo": [
+          "fada",
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 281,
+        "nome": "Viegas de Carvalho",
+        "tipo": [
+          "lutador"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 282,
+        "nome": "Wagner Santiago",
+        "tipo": [
+          "sombrio"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 283,
+        "nome": "Caruso Junior",
+        "tipo": [
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 284,
+        "nome": "Diego Sabádo",
+        "tipo": [
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 285,
+        "nome": "Patrícia Leite",
+        "tipo": [
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 286,
+        "nome": "Mahmoud Baydoun",
+        "tipo": [
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 287,
+        "nome": "Lucas Fernandes",
+        "tipo": [
+          "arcrebiano"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 288,
+        "nome": "Nayara de Deus",
+        "tipo": [
+          "planta"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 289,
+        "nome": "Ana Paula Costa",
+        "tipo": [
+          "psiquico",
+          "venenoso"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 290,
+        "nome": "Jaqueline Grohalski",
+        "tipo": [
+          "fogo"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 291,
+        "nome": "Mara Telles",
+        "tipo": [
+          "psiquico"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 292,
+        "nome": "Eva & Jorge Lima",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      }
+    ],
+    [
+      {
+        "edicao": 19,
+        "foto": 293,
+        "nome": "Paula von Sperling",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": true,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 294,
+        "nome": "Alan Possamai",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 18,
+        "foto": 295,
+        "nome": "Carolina Peixinho",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 296,
+        "nome": "Hariany Almeida",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 297,
+        "nome": "Rízia Cerqueira",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 298,
+        "nome": "Gabriela Hebling",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 299,
+        "nome": "Rodrigo França",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 300,
+        "nome": "Elana Valenária",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 301,
+        "nome": "Danrley Ferreira",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 302,
+        "nome": "Tereza Souza",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 303,
+        "nome": "Isabella Cecchi",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 304,
+        "nome": "Maycon Santos",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 305,
+        "nome": "Diego Wantowsky",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 306,
+        "nome": "Hana Khalil",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 307,
+        "nome": "Gustavo Soares",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 308,
+        "nome": "Vanderson Brito",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 309,
+        "nome": "Vinicius Póvoa",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
+      },
+      {
+        "edicao": 19,
+        "foto": 310,
+        "nome": "Fábio Alano",
+        "tipo": [
+          "normal"
+        ],
+        "campeao": false,
+        "primeiroEliminado": false
       }
     ]
   ]

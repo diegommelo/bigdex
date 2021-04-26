@@ -4,22 +4,38 @@ import { parseName, TIPOS } from '../utils/utils';
 const URL_FOTO = 'https://paredao.diegomelo.com/img/fotos/';
 
 export default function ShowBBB({ participant, handleFilterByType }) {
-  const { nome, foto, edicao, tipo } = participant;
+  const { nome, foto, edicao, tipo, campeao } = participant;
 
   function onFilterByType(e) {
     handleFilterByType(e.currentTarget.value);
   }
   return (
-    <figure className="bg-gray-100 shadow rounded-xl shadow rounded-xl whitespace-line md:w-44 p-2 min-h-40 m-4">
+    <figure
+      className={`bg-gray-100 shadow rounded-xl shadow rounded-xl whitespace-line md:w-44 p-2 min-h-40 m-4 ${
+        campeao ? 'ring-2 ring-yellow-400' : ''
+      }`}
+    >
       <div className="flex flex-row md:space-x-26 space-x-20 mb-2">
         <p className="text-xs md:pl-4 font-semibold">BBB {edicao}</p>
         <p className="text-xs font-semibold">#{foto}</p>
       </div>
-      <img
-        src={URL_FOTO + foto + '.jpg'}
-        className="h-24 w-24 rounded-full mx-auto"
-        alt=""
-      />
+      <div className="relative flex">
+        <img
+          src={URL_FOTO + foto + '.jpg'}
+          className="h-24 w-24 rounded-full mx-auto"
+          alt=""
+        />
+        <div
+          className={`bottom-0 right-10 absolute rounded-full w-5 h-5 bg-white inline-block flex justify-center items-center ${
+            campeao ? 'visible' : 'invisible'
+          }`}
+        >
+          <span href="#" className="inline-block">
+            👑
+          </span>
+        </div>
+      </div>
+
       <div className="py-4">
         <span className="text-center break-normal">{parseName(nome).name}</span>
         <br />
