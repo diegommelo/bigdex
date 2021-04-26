@@ -19,6 +19,7 @@ export default function App() {
   const [selectedEdition, setSelectedEdition] = useState(0);
   const [showFilters, setShowFilters] = useState(true);
   const [filteredBy, setFilteredBy] = useState('');
+  const [scrollTop, setScrollTop] = useState(false);
 
   useEffect(() => {
     async function getAllBBBs() {
@@ -51,6 +52,16 @@ export default function App() {
     setFilteredBBBs(filterByEdition(selectedEdition));
     setFilteredBy({ filter: 'edition', value: selectedEdition });
   }, [selectedEdition]);
+
+  useEffect(() => {
+    const onScroll = e => {
+      document.documentElement.scrollTop > 150 ? setScrollTop(true) : setScrollTop(false)
+    }
+    window.addEventListener("scroll", onScroll);
+    return () => {
+      window.removeEventListener("scroll", onScroll)
+    }
+  }, [scrollTop])
 
   function handleSearchBBB(search) {
     setSearchBBB(search);
@@ -108,6 +119,14 @@ export default function App() {
     return resp;
   }
 
+  function scrollToTop(){
+    window.scroll({
+      top: 0, 
+      left: 0, 
+      behavior: 'smooth'
+    });
+  }
+
   return (
     <div className="App">
       <img
@@ -116,6 +135,7 @@ export default function App() {
         className="mx-auto md:w-1/12 w-1/4 m-2"
       />
       <h1 className="font-semibold text-4xl m-4">BigDex Brasil</h1>
+      <p className="text-sm text-center pb-4">por <a href="https://twitter.com/dieguitoo">@dieguitoo</a> e <a href="https://twitter.com/paulinha_v">@paulinha_v</a></p>
       <Search onSearch={handleSearchBBB} />
       <button className="mt-4" onClick={handleShowFilters}>
         <span className={showFilters ? 'hidden' : ''}>
@@ -133,7 +153,7 @@ export default function App() {
         />
       </div>
       <div>
-        <p class="text-left w-9/12 mx-auto md:pl-12 mt-4">
+        <p className="text-left w-9/12 mx-auto md:pl-12 mt-6" id="filtrado">
           Filtrado por: &nbsp;
           {filteredBy.filter === 'type' && (
             <button
@@ -150,7 +170,7 @@ export default function App() {
               ? filteredBy.value + 'ª geração'
               : 'Todas as gerações'}
           </span>
-          <span classname={filteredBy.filter === 'name' ? '' : 'hidden'}>
+          <span className={filteredBy.filter === 'name' ? '' : 'hidden'}>
             {filteredBy.filter === 'name' && filteredBy.value}
           </span>
         </p>
@@ -160,6 +180,9 @@ export default function App() {
         allBBBs={filteredBBBs}
         filterByType={handleFilterType}
       />
+      <div>
+        <button className={`${scrollTop ? 'visible' : 'invisible'} md:invisible bottom-5 shadow-md right-10 fixed rounded-full text-black bg-gray-200 w-12 h-12`} onClick={scrollToTop}>&#8593;</button>
+      </div>
     </div>
   );
 }

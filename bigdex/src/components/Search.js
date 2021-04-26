@@ -5,6 +5,10 @@ export default function Search({ onSearch }) {
     onSearch(e.target.value);
   }
 
+  function handleClick(e){
+    e.target.select();
+  }
+
   return (
     <div>
       <input
@@ -12,6 +16,7 @@ export default function Search({ onSearch }) {
         type="search"
         placeholder="Pesquisar BBB (sem acentos)"
         onChange={handleChange}
+        onClick={handleClick}
       ></input>
     </div>
   );

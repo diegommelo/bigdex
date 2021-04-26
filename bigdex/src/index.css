@@ -11,8 +11,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: lightgray;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+button:focus {
+  outline: none !important;
 }

@@ -3,19 +3,20 @@ import { parseName, TIPOS } from '../utils/utils';
 
 const URL_FOTO = 'https://paredao.diegomelo.com/img/fotos/';
 
-export default function ShowBBB({ participant, handleFilterByType }) {
+export default function ShowBBB({ participant, handleFilterByType, scrollToTop }) {
   const { nome, foto, edicao, tipo, campeao } = participant;
 
   function onFilterByType(e) {
     handleFilterByType(e.currentTarget.value);
+    document.querySelector('#filtrado').scrollIntoView()
   }
   return (
     <figure
-      className={`bg-gray-100 shadow rounded-xl shadow rounded-xl whitespace-line md:w-44 p-2 min-h-40 m-4 ${
+      className={`bg-gray-100 shadow rounded-xl shadow rounded-xl whitespace-line md:w-44 w-38 p-2 min-h-40 md:m-4 m-2 ${
         campeao ? 'ring-2 ring-yellow-400' : ''
       }`}
     >
-      <div className="flex flex-row md:space-x-26 space-x-20 mb-2">
+      <div className="flex flex-row md:space-x-26 space-x-16 mb-2">
         <p className="text-xs md:pl-4 font-semibold">BBB {edicao}</p>
         <p className="text-xs font-semibold">#{foto}</p>
       </div>
