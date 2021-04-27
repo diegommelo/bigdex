@@ -6,7 +6,7 @@ import Search from './components/Search';
 import Types from './components/Types';
 import Editions from './components/Editions';
 
-const URL_API = 'http://localhost:3000/participantes';
+const URL_API = 'edicoes.json';
 
 export default function App() {
   const [allBBBs, setAllBBBs] = useState([]);
@@ -23,16 +23,22 @@ export default function App() {
 
   useEffect(() => {
     async function getAllBBBs() {
-      const res = await fetch(URL_API);
+      const res = await fetch(URL_API, {
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        }
+      });
       const data = await res.json();
-      setAllBBBs(data);
-      setFilteredBBBs(data);
+      setAllBBBs(data.participantes);
+      setFilteredBBBs(data.participantes);
       let editionsArray = await Array.from({
-        length: data.length,
+        length: data.participantes.length,
       }).map((_, index) => ({
         id: index + 1,
         description: index + 1 + 'ª geração',
       }));
+      console.log(editionsArray)
       setAllEditions(editionsArray);
     }
     getAllBBBs();
