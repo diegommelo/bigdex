@@ -657,7 +657,7 @@
         "foto": 64,
         "nome": "Rogério Padovan",
         "tipo": [
-          "lutador"
+          "lutador","sombrio"
         ],
         "campeao": false,
         "primeiroEliminado": false
