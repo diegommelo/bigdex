@@ -1,4 +1,5 @@
 import React from 'react';
+import {LazyLoadImage} from 'react-lazy-load-image-component';
 import { parseName, TIPOS } from '../utils/utils';
 
 const URL_FOTO = 'https://paredao.diegomelo.com/img/fotos/';
@@ -12,7 +13,7 @@ export default function ShowBBB({ participant, handleFilterByType, scrollToTop }
   }
   return (
     <figure
-      className={`bg-gray-100 shadow rounded-xl shadow rounded-xl whitespace-line md:w-44 w-38 p-2 min-h-40 md:m-4 m-2 ${
+      className={`bg-gray-100 shadow rounded-xl shadow rounded-xl whitespace-line md:w-44 w-40 p-2 min-h-40 md:m-4 m-2 ${
         campeao ? 'ring-2 ring-yellow-400' : ''
       }`}
     >
@@ -21,7 +22,7 @@ export default function ShowBBB({ participant, handleFilterByType, scrollToTop }
         <p className="text-xs font-semibold">#{foto}</p>
       </div>
       <div className="relative flex">
-        <img
+        <LazyLoadImage
           src={URL_FOTO + foto + '.jpg'}
           className="h-24 w-24 rounded-full mx-auto"
           alt=""
