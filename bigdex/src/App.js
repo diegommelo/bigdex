@@ -38,7 +38,6 @@ export default function App() {
         id: index + 1,
         description: index + 1 + 'ª geração',
       }));
-      console.log(editionsArray)
       setAllEditions(editionsArray);
     }
     getAllBBBs();
