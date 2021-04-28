@@ -5,6 +5,7 @@ import ListBBBs from './components/ListBBBs';
 import Search from './components/Search';
 import Types from './components/Types';
 import Editions from './components/Editions';
+import FilterBy from './components/FilterBy';
 
 const URL_API = 'edicoes.json';
 
@@ -157,29 +158,7 @@ export default function App() {
           onFilterByEdition={handleFilterByEdition}
         />
       </div>
-      <div>
-        <p className="text-left w-9/12 mx-auto md:pl-12 mt-6" id="filtrado">
-          Filtrado por: &nbsp;
-          {filteredBy.filter === 'type' && (
-            <button
-              className={
-                'text-xs inline-block rounded-full text-white duration-300 text-xs font-bold mr-1 md:mr-2 mb-2 px-2 md:px-4 py-1 opacity-90 hover:opacity-100 ' +
-                TIPOS[filteredBy.value].color
-              }
-            >
-              {filteredBy.value}
-            </button>
-          )}
-          <span className={filteredBy.filter === 'edition' ? '' : 'hidden'}>
-            {filteredBy.filter === 'edition' && parseInt(filteredBy.value) !== 0
-              ? filteredBy.value + 'ª geração'
-              : 'Todas as gerações'}
-          </span>
-          <span className={filteredBy.filter === 'name' ? '' : 'hidden'}>
-            {filteredBy.filter === 'name' && filteredBy.value}
-          </span>
-        </p>
-      </div>
+      <FilterBy filteredBy={filteredBy} />
       <ListBBBs
         allEditions={allEditions}
         allBBBs={filteredBBBs}
