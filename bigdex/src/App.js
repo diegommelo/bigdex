@@ -158,7 +158,7 @@ export default function App() {
           onFilterByEdition={handleFilterByEdition}
         />
       </div>
-      <FilterBy filteredBy={filteredBy} />
+      <FilterBy filteredBy={filteredBy} handleFilterByType={handleFilterType} />
       <ListBBBs
         allEditions={allEditions}
         allBBBs={filteredBBBs}
