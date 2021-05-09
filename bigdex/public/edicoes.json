@@ -657,7 +657,8 @@
         "foto": 64,
         "nome": "Rogério Padovan",
         "tipo": [
-          "lutador","sombrio"
+          "lutador",
+          "sombrio"
         ],
         "campeao": false,
         "primeiroEliminado": false
@@ -3024,7 +3025,8 @@
         "foto": 293,
         "nome": "Paula von Sperling",
         "tipo": [
-          "fada", "sombrio"
+          "fada",
+          "sombrio"
         ],
         "campeao": true,
         "primeiroEliminado": false
@@ -3054,7 +3056,8 @@
         "foto": 296,
         "nome": "Hariany Almeida",
         "tipo": [
-          "fogo","eletrico"
+          "fogo",
+          "eletrico"
         ],
         "campeao": false,
         "primeiroEliminado": false
@@ -3154,7 +3157,8 @@
         "foto": 306,
         "nome": "Hana Khalil",
         "tipo": [
-          "psiquico","eletrico"
+          "psiquico",
+          "eletrico"
         ],
         "campeao": false,
         "primeiroEliminado": false
@@ -3206,11 +3210,12 @@
         "foto": 325,
         "nome": "Thelma Assis",
         "tipo": [
-          "fada","lutador"
+          "fada",
+          "lutador"
         ],
         "campeao": true,
-        "primeiroEliminado": false        
-      },      
+        "primeiroEliminado": false
+      },
       {
         "edicao": 20,
         "foto": 328,
@@ -3219,18 +3224,19 @@
           "fada"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
-      },      
+        "primeiroEliminado": false
+      },
       {
         "edicao": 20,
         "foto": 322,
         "nome": "Manu Gavassi",
         "tipo": [
-          "fada","psiquico"
+          "fada",
+          "psiquico"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
-      },     
+        "primeiroEliminado": false
+      },
       {
         "edicao": 20,
         "foto": 312,
@@ -3239,8 +3245,8 @@
           "lutador"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
-      },       
+        "primeiroEliminado": false
+      },
       {
         "edicao": 20,
         "foto": 324,
@@ -3249,28 +3255,30 @@
           "normal"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
-      },      
+        "primeiroEliminado": false
+      },
       {
         "edicao": 20,
         "foto": 329,
         "nome": "Ivy Moares",
         "tipo": [
-          "normal","psiquico"
+          "normal",
+          "psiquico"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
+        "primeiroEliminado": false
       },
       {
         "edicao": 20,
         "foto": 316,
         "nome": "Gizelly Bicalho",
         "tipo": [
-          "fogo","eletrico"
+          "fogo",
+          "eletrico"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
-      },            
+        "primeiroEliminado": false
+      },
       {
         "edicao": 20,
         "foto": 313,
@@ -3279,8 +3287,8 @@
           "eletrico"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
-      },      
+        "primeiroEliminado": false
+      },
       {
         "edicao": 20,
         "foto": 323,
@@ -3289,18 +3297,19 @@
           "fada"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
-      },      
+        "primeiroEliminado": false
+      },
       {
         "edicao": 20,
         "foto": 315,
         "nome": "Gabi Martins",
         "tipo": [
-          "fada","planta"
+          "fada",
+          "planta"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
-      },      
+        "primeiroEliminado": false
+      },
       {
         "edicao": 20,
         "foto": 311,
@@ -3309,7 +3318,7 @@
           "psiquico"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
+        "primeiroEliminado": false
       },
       {
         "edicao": 20,
@@ -3319,28 +3328,30 @@
           "planta"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
+        "primeiroEliminado": false
       },
       {
         "edicao": 20,
         "foto": 317,
         "nome": "Pyong Lee",
         "tipo": [
-          "psiquico","sombrio"
+          "psiquico",
+          "sombrio"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
+        "primeiroEliminado": false
       },
       {
         "edicao": 20,
         "foto": 327,
         "nome": "Victor Hugo Teixeira",
         "tipo": [
-          "planta","psiquico"
+          "planta",
+          "psiquico"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
-      },      
+        "primeiroEliminado": false
+      },
       {
         "edicao": 20,
         "foto": 318,
@@ -3349,8 +3360,8 @@
           "arcrebiano"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
-      },      
+        "primeiroEliminado": false
+      },
       {
         "edicao": 20,
         "foto": 314,
@@ -3359,7 +3370,7 @@
           "eletrico"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
+        "primeiroEliminado": false
       },
       {
         "edicao": 20,
@@ -3369,7 +3380,7 @@
           "sombrio"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
+        "primeiroEliminado": false
       },
       {
         "edicao": 20,
@@ -3379,18 +3390,19 @@
           "normal"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
+        "primeiroEliminado": false
       },
       {
         "edicao": 20,
         "foto": 326,
         "nome": "Petrix Barbosa",
         "tipo": [
-          "sombrio","venenoso"
+          "sombrio",
+          "venenoso"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
-      },      
+        "primeiroEliminado": false
+      },
       {
         "edicao": 20,
         "foto": 320,
@@ -3399,7 +3411,7 @@
           "fantasma"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
+        "primeiroEliminado": false
       },
       {
         "edicao": 20,
@@ -3409,7 +3421,7 @@
           "fantasma"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
+        "primeiroEliminado": false
       },
       {
         "edicao": 20,
@@ -3419,7 +3431,7 @@
           "fantasma"
         ],
         "campeao": false,
-        "primeiroEliminado": false        
+        "primeiroEliminado": false
       }
     ],
     [
@@ -3431,7 +3443,7 @@
           "lutador"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3441,7 +3453,7 @@
           "normal"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3451,7 +3463,7 @@
           "planta"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3461,27 +3473,29 @@
           "psiquico"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
         "foto": 337,
         "nome": "Fiuk",
         "tipo": [
-          "normal","fantasma"
+          "normal",
+          "fantasma"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
         "foto": 338,
         "nome": "Gilberto Nogueira",
         "tipo": [
-          "eletrico","fada"
+          "eletrico",
+          "fada"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3491,37 +3505,40 @@
           "normal"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
         "foto": 340,
         "nome": "Juliette Feitosa",
         "tipo": [
-          "fada","fogo"
+          "fada",
+          "fogo"
         ],
-        "campeao": false,
-        "primeiroEliminado": false           
+        "campeao": true,
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
         "foto": 341,
         "nome": "Karol Conká",
         "tipo": [
-          "sombrio","venenoso"
+          "sombrio",
+          "venenoso"
         ],
         "campeao": false,
-        "primeiroEliminado": false   
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
         "foto": 342,
         "nome": "Lumena Santos",
         "tipo": [
-          "sombrio","venenoso"
+          "sombrio",
+          "venenoso"
         ],
         "campeao": false,
-        "primeiroEliminado": false   
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3531,7 +3548,7 @@
           "venenoso"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3541,7 +3558,7 @@
           "planta"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3551,7 +3568,7 @@
           "venenoso"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3561,17 +3578,18 @@
           "sombrio"
         ],
         "campeao": false,
-        "primeiroEliminado": false   
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
         "foto": 347,
         "nome": "Sarah Andrade",
         "tipo": [
-          "fogo","lutador"
+          "fogo",
+          "lutador"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3581,7 +3599,7 @@
           "planta"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3591,7 +3609,7 @@
           "venenoso"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3601,7 +3619,7 @@
           "arcrebiano"
         ],
         "campeao": false,
-        "primeiroEliminado": false   
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3611,7 +3629,7 @@
           "fantasma"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       },
       {
         "edicao": 21,
@@ -3621,8 +3639,8 @@
           "fantasma"
         ],
         "campeao": false,
-        "primeiroEliminado": false           
+        "primeiroEliminado": false
       }
-    ]        
+    ]
   ]
 }
