@@ -221,7 +221,8 @@
         "foto": 22,
         "nome": "Fernando Fernandes",
         "tipo": [
-          "normal"
+          "normal",
+          "lutador"
         ],
         "campeao": false,
         "primeiroEliminado": false
@@ -3502,7 +3503,8 @@
         "foto": 339,
         "nome": "João Luiz Pedrosa",
         "tipo": [
-          "normal"
+          "normal",
+          "fada"
         ],
         "campeao": false,
         "primeiroEliminado": false
